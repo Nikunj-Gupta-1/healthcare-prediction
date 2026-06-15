@@ -9,9 +9,9 @@ An interactive **Streamlit web dashboard** for training and evaluating machine l
 This is a **standalone project** that runs independently from the DDoS detection series:
 
 ```
-lts-coursework-experiments         (early classifiers and Scapy experiments)
-lts-monolithic-ddos-detection      (single-machine DDoS sniffer)
-lts-distributed-ddos-detection     (distributed DDoS pipeline)
+PS1-coursework-experiments         (early classifiers and Scapy experiments)
+PS1-monolithic-ddos-detection      (single-machine DDoS sniffer)
+PS1-distributed-ddos-detection     (distributed DDoS pipeline)
 
 healthcare-prediction              ← you are here (separate, parallel project)
 ```
@@ -69,6 +69,6 @@ No `.csv` or model files are included in this repo.
 ---
 
 ## See Also
-- [`lts-coursework-experiments`](https://github.com/nikunj-gupta-1) — early PS-1 ML assignments
-- [`lts-monolithic-ddos-detection`](https://github.com/nikunj-gupta-1) — DDoS detection (monolithic)
-- [`lts-distributed-ddos-detection`](https://github.com/nikunj-gupta-1) — DDoS detection (distributed pipeline)
+- [`PS1-coursework-experiments`](https://github.com/nikunj-gupta-1/PS1-coursework-experiments) — early PS-1 ML assignments
+- [`PS1-monolithic-ddos-detection`](https://github.com/nikunj-gupta-1/PS1-monolithic-ddos-detection) — DDoS detection (monolithic)
+- [`PS1-distributed-ddos-detection`](https://github.com/nikunj-gupta-1/PS1-distributed-ddos-detection) — DDoS detection (distributed pipeline)
