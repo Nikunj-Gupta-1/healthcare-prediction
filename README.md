@@ -69,6 +69,6 @@ No `.csv` or model files are included in this repo.
 ---
 
 ## See Also
-- [`lts-coursework-experiments`](https://github.com/nikunjgupta) — early PS-1 ML assignments
-- [`lts-monolithic-ddos-detection`](https://github.com/nikunjgupta) — DDoS detection (monolithic)
-- [`lts-distributed-ddos-detection`](https://github.com/nikunjgupta) — DDoS detection (distributed pipeline)
+- [`lts-coursework-experiments`](https://github.com/nikunj-gupta-1) — early PS-1 ML assignments
+- [`lts-monolithic-ddos-detection`](https://github.com/nikunj-gupta-1) — DDoS detection (monolithic)
+- [`lts-distributed-ddos-detection`](https://github.com/nikunj-gupta-1) — DDoS detection (distributed pipeline)
